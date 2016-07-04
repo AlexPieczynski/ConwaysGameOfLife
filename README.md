@@ -5,9 +5,9 @@ This was written as a way to simulation Conway's Game of Life. It follows the or
 
 # Running the program
 You can compile from the source code by executing command
-  javac MainFrame.java
+  <code>javac MainFrame.java</code>
 from the directory containing the code. Run with command:
-  java MainFrame
+  <code>java MainFrame</code>
 
 Alternatively, you can download the JAR file and run that.
 
