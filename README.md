@@ -1,7 +1,7 @@
 # ConwaysGameOfLife
 An implementation of Conway's Game of Life written in Java.
 
-This was written as a way to simulation Conway's Game of Life. It follows the original rules of the game that can be found here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+This was written as a way to simulate Conway's Game of Life. It follows the original rules of the game that can be found here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 # Running the program
 You can compile from the source code by executing command
