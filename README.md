@@ -3,6 +3,14 @@ An implementation of Conway's Game of Life written in Java.
 
 This was written as a way to simulation Conway's Game of Life. It follows the original rules of the game that can be found here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
+# Running the program
+You can compile from the source code by executing command
+javac MainFrame.java
+from the directory containing the code. Run with command:
+java MainFrame
+
+Alternatively, you can download the JAR file and run that.
+
 # How To Play
 1. Click the cells of the grid to spawn cells and create some initial configuration
 2. Choose your speed from the dropdown menu
